@@ -1,0 +1,19 @@
+.odd_order {
+    background-color: lightpink;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+#order_2 {
+    color: blue;
+    font-size: 36px;
+}
+
+#order_3 {
+    font-size: 24px;
+}
+
+#order_4 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
